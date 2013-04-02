@@ -1,0 +1,7 @@
+MyText
+
+   1.  Settings Up the Files
+   2. Quick ActionScript 3.0 Test
+   3. Code Explanation
+   4. Displaying the External Content in a Text Field
+   5. Loading Variables From a Text File

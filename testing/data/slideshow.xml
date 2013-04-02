@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
+<album>
+<slide>
+  <slideId>1</slideId> 
+  <source>alcatraz.jpg</source> 
+  <caption>Alcatraz Island</caption> 
+</slide>
+<slide>
+  <slideId>2</slideId> 
+  <source>bigben.jpg</source> 
+  <caption>Big Ben</caption> 
+</slide>
+<slide>
+  <slideId>3</slideId> 
+  <source>bourbonstreet.jpg</source> 
+  <caption>Bourbon Street</caption> 
+</slide>
+<slide>
+  <slideId>4</slideId> 
+  <source>buckinghampalace.jpg</source> 
+  <caption>Buckingham Palace</caption> 
+</slide>
+<slide>
+  <slideId>5</slideId> 
+  <source>cablecars.jpg</source> 
+  <caption>Cable Cars</caption> 
+</slide>
+<slide>
+  <slideId>6</slideId> 
+  <source>cathedralpeak.jpg</source> 
+  <caption>Cathedral Peak</caption> 
+</slide>
+<slide>
+  <slideId>7</slideId> 
+  <source>coittower.jpg</source> 
+  <caption>Coit Tower</caption> 
+</slide>
+<slide>
+  <slideId>8</slideId> 
+  <source>conservatoryofflowers.jpg</source> 
+  <caption>Conservatory of Flowers</caption> 
+</slide>
+<slide>
+  <slideId>9</slideId> 
+  <source>crawfish.jpg</source> 
+  <caption>Crawfish</caption> 
+</slide>
+<slide>
+  <slideId>10</slideId> 
+  <source>elcapitan.jpg</source> 
+  <caption>El Capitan</caption> 
+</slide>
+<slide>
+  <slideId>11</slideId> 
+  <source>fishermanswharf.jpg</source> 
+  <caption>Fisherman's Wharf</caption> 
+</slide>
+<slide>
+  <slideId>12</slideId> 
+  <source>halfdome.jpg</source> 
+  <caption>Half Dome</caption> 
+</slide>
+<slide>
+  <slideId>13</slideId> 
+  <source>lombardstreet.jpg</source> 
+  <caption>Lombard Street</caption> 
+</slide>
+<slide>
+  <slideId>14</slideId> 
+  <source>londonbridge.jpg</source> 
+  <caption>London Bridge</caption> 
+</slide>
+<slide>
+  <slideId>15</slideId> 
+  <source>londonunderground.jpg</source> 
+  <caption>London Underground</caption> 
+</slide>
+<slide>
+  <slideId>16</slideId> 
+  <source>palaceoffinearts.jpg</source> 
+  <caption>Palace of Fine Arts</caption> 
+</slide>
+<slide>
+  <slideId>17</slideId> 
+  <source>riverboat.jpg</source> 
+  <caption>Riverboat</caption> 
+</slide>
+<slide>
+  <slideId>18</slideId> 
+  <source>saintpauls.jpg</source> 
+  <caption>Saint Paul's Cathedral</caption> 
+</slide>
+<slide>
+  <slideId>19</slideId> 
+  <source>towerbridge.jpg</source> 
+  <caption>Tower Bridge</caption> 
+</slide>
+<slide>
+  <slideId>20</slideId> 
+  <source>toweroflondon.jpg</source> 
+  <caption>Tower of London</caption> 
+</slide>
+<slide>
+  <slideId>21</slideId> 
+  <source>tuolumne.jpg</source> 
+  <caption>Tuolumne Meadows</caption> 
+</slide>
+<slide>
+  <slideId>22</slideId> 
+  <source>yosemitefalls.jpg</source> 
+  <caption>Yosemite Falls</caption> 
+</slide>
+  </album>

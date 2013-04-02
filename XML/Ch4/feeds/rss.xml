@@ -1,0 +1,34 @@
+<? xml version="1.0" encoding="utf-8"?>
+<rss xmlns:photo="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+	<channel>
+		<title>MINI Goes West!</title>
+		<link>http://www.lynda.com/go/actionscript/Site/Photos/Photos.html</link>
+		<description>MINI Goes West!</description>
+		<item>
+			<title>San Antonio</title>
+			<link>http://www.lynda.com/go/actionscript/Site/Photos/San_Antonio.html</link>
+			<guid isPermalink="false">5b12fd97-6cf0-4571-b740-484fabfc161a</guid>
+		</item>
+		<item>
+			<title>Continental Divide</title>
+			<link>http://www.lynda.com/go/actionscript/Site/Photos/Continental_Divide.html</link>
+			<guid isPermalink="false">3a6f83bf-d6ee-80ea-66c2d46b172e</guid>
+		</item>
+		<item>
+			<title>Painted Desert</title>
+			<link>http://www.lynda.com/go/actionscript/Site/Photos/Painted_Desert.html</link>
+			<guid isPermalink="false">19fb837-eddc-492b-bc1f-6dcf0b14f486</guid>
+		</item>
+		<item>
+			<title>Grand Canyon</title>
+			<link>http://www.lynda.com/go/actionscript/Site/Photos/Grand_Canyon.html</link>
+			<guid isPermalink="false">fc1c7c2b-2d44-4666-85c1-1ee079301ab8</guid>
+		</item>	
+		<item>
+			<title>California</title>
+			<link>http://www.lynda.com/go/actionscript/Site/Photos/California.html</link>
+			<guid isPermalink="false">cd2e987-c429-4733-99c6-1b4e1f94afd2</guid>
+		</item>			
+	</channel>
+
+</rss>

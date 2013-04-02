@@ -1,0 +1,21 @@
+<? xml version="1.0" encoding="utf-8"?>
+<gallery>
+<?processing instructions?>
+<!-- XML for a slideshow - comment -->
+	<image file="pic1.jpg">
+		<title>A Picture of some stuff</title>
+		<description><![CDATA[Here's a <b>picture</b> of some stuff.]]></description>
+		<photographer id="001">
+			<name>John Photographer</name>
+			<location>Ventura, CA</location>
+		</photographer>
+	</image>
+	<image file="pic2.jpg">
+		<title>A Picture of some different stuff</title>
+		<description><![CDATA[Here's more stuff.]]></description>
+		<photographer id="002">
+			<name>Jim Photographer</name>
+			<location>Seattle, WA</location>
+		</photographer>
+	</image>	
+</gallery>
